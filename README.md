@@ -1,4 +1,4 @@
-expertza_dashboard
+expertiza_dashboard
 ==================
 
 Student Dashboard 
